@@ -20,3 +20,24 @@
 - Other
   - [MobaXterm](https://mobaxterm.mobatek.net/)
   - [Docker](https://www.docker.com/)
+
+## Learning
+Familiarize with different softwares.
+
+Universe BASIC
+
+Python
+
+Typescript
+
+React/React Native
+
+Docker
+
+Linux
+
+Coding with AI
+
+MongoDB
+
+Git/Github
