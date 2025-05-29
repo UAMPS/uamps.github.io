@@ -2,3 +2,5 @@ theme: just-the-docs
 title: "Onboarding To-Do's"
 
 url: "https://uamps.github.io/docs"
+baseurl: "/docs" # the subpath of your site, e.g. /blog
+domain: "uamps.github.io"
