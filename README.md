@@ -38,9 +38,6 @@ Linux
 
 Coding with AI
 
-MongoDB
+MongoDB - https://www.mongodb.com/docs/manual/tutorial/getting-started/
 
 Git/Github
-
-
-Hi this is Ryan
